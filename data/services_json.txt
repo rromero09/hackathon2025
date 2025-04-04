@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "IT Help Desk",
+    "building": "Technology Center",
+    "floor": 1,
+    "type": "tech_support",
+    "hours": "8:00-18:00",
+    "services": NaN,
+    "appointment_required": NaN,
+    "subjects": NaN,
+    "wait_time_morning": 5.0,
+    "wait_time_afternoon": 12.0,
+    "wait_time_evening": 8.0
+  },
+  {
+    "id": 2,
+    "name": "Counseling Center",
+    "building": "Health Center",
+    "floor": 2,
+    "type": "counseling",
+    "hours": "9:00-17:00",
+    "services": "individual,group,crisis",
+    "appointment_required": true,
+    "subjects": NaN,
+    "wait_time_morning": NaN,
+    "wait_time_afternoon": NaN,
+    "wait_time_evening": NaN
+  },
+  {
+    "id": 3,
+    "name": "Career Services",
+    "building": "Student Union",
+    "floor": 2,
+    "type": "career",
+    "hours": "9:00-16:00",
+    "services": "resume,interview,job_search",
+    "appointment_required": true,
+    "subjects": NaN,
+    "wait_time_morning": NaN,
+    "wait_time_afternoon": NaN,
+    "wait_time_evening": NaN
+  },
+  {
+    "id": 4,
+    "name": "Tutoring Center",
+    "building": "Library",
+    "floor": 2,
+    "type": "tutoring",
+    "hours": "10:00-20:00",
+    "services": NaN,
+    "appointment_required": false,
+    "subjects": "math,science,writing,languages",
+    "wait_time_morning": NaN,
+    "wait_time_afternoon": NaN,
+    "wait_time_evening": NaN
+  },
+  {
+    "id": 5,
+    "name": "Health Clinic",
+    "building": "Health Center",
+    "floor": 1,
+    "type": "health",
+    "hours": "8:00-17:00",
+    "services": "general,vaccines,prescriptions",
+    "appointment_required": true,
+    "subjects": NaN,
+    "wait_time_morning": NaN,
+    "wait_time_afternoon": NaN,
+    "wait_time_evening": NaN
+  }
+]
